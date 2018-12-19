@@ -1,8 +1,0 @@
-have player 1 select first then player 2. there will be buttons with their names (not images as of now) that will have the names of
-characters.
-when the button is selected it makes whichever cat that is selected have the tag either 'currentCatP1' or 'currentCatP2'.
-there should be a cat manager with a list of all of them (such as with the card manager) and when sampleGame is active,
-then it will check through the list of cats and whichever ones have a tag of 'currentCatP1' or 'currentCatP2' will be
-enabled.
-
-!make sure that whichever cat is selected the variable IS NOT DESTROYED ON LOAD NEW SCENE

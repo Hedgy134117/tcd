@@ -1,7 +1,7 @@
 body {
 	font-family: 'Quicksand', sans-serif;
 	/*background-color: #ff0080;*/
-	background: url(tpc_web_bg.jpg) no-repeat center center fixed;
+	background-color: #696969;
   	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -10,7 +10,7 @@ body {
   	font-size: 125%;
 }
 
-footer {
+footer, header {
 	text-align: center;
 }
 

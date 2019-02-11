@@ -20,3 +20,7 @@ body {
 .delay2s {
 	animation-delay: 2s;
 }
+
+.delay3s {
+	animation-delay: 3s;
+}

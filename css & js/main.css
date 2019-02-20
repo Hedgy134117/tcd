@@ -13,6 +13,11 @@ body {
 	text-align: center;
 }
 
+
+.delay0p5s {
+	animation-delay: 0.5s;
+}
+
 .delay1s {
 	animation-delay: 1s;
 }
